@@ -1,10 +1,9 @@
 # Project-Presentation
 # 🎓 Digital Portfolio – PRP370-1-2S
  
-**Name:** Masibuve Sikhulume  
+**Name:** Esethu Mbizweni  
 
-**Student Number:** [Your Student Number]  
-
+**Student Number:**222458968
 **Qualification:** Diploma in ICT  
 
 **Module:** Project Presentation 3  
@@ -93,7 +92,7 @@
  
 ### 📁 Evidence
 
-- [Screenshots or confirmations from submissions to job portals (e.g., LinkedIn, Indeed).]
+[CV](https://github.com/EsethuElsie/Project-Presentation/blob/main/Elsie%20Cv_merged.pdf)
  
 ### 💭 Reflection (STAR)
 
@@ -106,11 +105,6 @@
 **Result:** I received a few responses, including one interview invitation. The experience helped me improve my job-seeking strategies and prepared me for future applications.
  
 ---
- 
-## ✅ Conclusion
- 
-This digital portfolio serves as evidence of my growth in professional readiness, critical reflection, and proactive career planning throughout the semester.
- 
----
+
 
  
